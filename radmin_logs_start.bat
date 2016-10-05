@@ -1,0 +1,1 @@
+radmin_logs.exe > radmin.csv
